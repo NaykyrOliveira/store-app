@@ -73,6 +73,7 @@
     border-bottom: 1px solid #dcdcdc;
     display: flex;
     justify-content: space-between;
+    width: 98.5%;
 }
 
 .populares__botao {
