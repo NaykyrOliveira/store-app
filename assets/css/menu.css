@@ -1,10 +1,5 @@
-.menu__lista {
-    padding: 2rem;
-}
-
 .menu__link {
     color: #333333;
-    padding: .5rem 2rem;
 }
 
 .menu__link:hover, .menu__link.ativo {
