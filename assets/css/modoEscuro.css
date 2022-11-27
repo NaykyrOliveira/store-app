@@ -2,8 +2,28 @@ body.active {
     background: rgba(0, 0, 0, 0.9);
 }
 
+.destaques__categorias___item,
+.populares__card {
+    background-color: rgba(160, 160, 160, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+
+}
+
+.destaques__categorias___link,
+.menu__link, 
+.populares__card___titulo,
+.populares__card___data,
+.populares__card___descricao,
+.populares__botao,
+.populares__titulo {
+    color: #f8f8f8;
+}
+
 footer.active {
-    background: rgba(0, 0, 0, 0.9);
+    background-color: rgba(160, 160, 160, 0.1);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
     color: #f8f8f8;
 }
 
